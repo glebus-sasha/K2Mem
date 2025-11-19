@@ -27,7 +27,7 @@ Classification
 --------------
 To classify a set of sequences using the informations obtained from the previous classifications, use the `k2mem` command:
 
-    k2mem --db $DBNAME seqs.fa
+    k2mem --db $DBNAME seqs.fa 
 
 in both cases output will be sent to standard output by default.
 
